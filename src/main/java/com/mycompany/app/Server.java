@@ -17,6 +17,8 @@ public class Server
        System.out.format("No %s",1);
        if ("1" == "2") {
             //dosomething
+            // adding dummy line
+            int a = 1;
        }
     }
 
